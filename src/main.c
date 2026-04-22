@@ -11,11 +11,11 @@
 #include "chardisp.h"   
 
 /****************************************** */
-#define PIN_SDI 30   //pin of SDI
+#define PIN_SDI 27   //pin of SDI
 #define PIN_CS  29   //clock signal
-#define PIN_SCK 28   //pin of SCK
-#define PIN_DC  27   //pin of DC signal
-#define PIN_nRESET  26//pin of reset signal
+#define PIN_SCK 30   //pin of SCK
+#define PIN_DC  25   //pin of DC signal
+#define PIN_nRESET 26 //pin of reset signal
 
 // Uncomment the following #define when 
 // you are ready to run Step 3.
